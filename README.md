@@ -30,6 +30,6 @@ The order of message processors may have a significant impact on how your messag
 
 6. Congratulations, your graylog pipeline rule is now working!
 
-#Dashboards
+# Dashboards
 
 To get results for the *User Linux Commandline* widget, you need to enable commandline auditing on your linux machine as described here: https://confluence.atlassian.com/confkb/how-to-enable-command-line-audit-logging-in-linux-956166545.html
